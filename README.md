@@ -1,3 +1,3 @@
-## Next.js App Router Course - Starter -> Into Data Science Project
+## Web Dashboard - Data Analysis 
 
-Go to main branch to see more
+This is the web UI side of the data analysis application, processed at the backend.
